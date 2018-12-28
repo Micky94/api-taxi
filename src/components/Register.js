@@ -30,7 +30,7 @@ export default class Regiter extends Component{
      loaded:false
     });
     console.log(this.state);
-      fetch('https://api-taxi.herokuapp.com/insertUsersCliente', {
+      fetch('https://api-taxisc.herokuapp.com/insertUsersCliente', {
         method: 'POST',
         headers: {
           Accept: 'application/json',

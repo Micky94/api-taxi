@@ -42,7 +42,7 @@ export default class Login extends Component{
          ok:false,
          textoCliente:'validando..'
         });
-        fetch('https://api-taxi.herokuapp.com/ingresar', {
+        fetch('https://api-taxisc.herokuapp.com/ingresar', {
         method: 'POST',
         headers: {
           Accept: 'application/json',

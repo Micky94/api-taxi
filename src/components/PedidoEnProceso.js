@@ -30,7 +30,7 @@ export default class PedidoEnProceso extends Component{
 
   componentDidMount() {
     var id=this.state.usuario[0]["id"];
-    return fetch('https://api-taxi.herokuapp.com/pedidoEnProceso/'+id)
+    return fetch('https://api-taxisc.herokuapp.com/pedidoEnProceso/'+id)
           .then((response) => response.json())
           .then((responseJson) => {
             //console.log(responseJson);
