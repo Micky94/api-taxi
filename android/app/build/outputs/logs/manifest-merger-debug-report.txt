@@ -1,0 +1,531 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12
+MERGED from [:react-native-push-notification] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-push-notification\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.1.aar\4224190e4e0c305d46a52ea2debdbc1a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\2d8f60758960eaa03ada8c6da9e3944e\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\eee8e3d8dcb47e6bf01be5b5d5e46659\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\04509030e610c7d2393089c4fa5639f6\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-maps] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\2c5b665c686f15318976c14d7af94459\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.1.aar\651b0a801b2f9b0fc6dadf40f9bede44\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8bfffa7eaab24086905485d932006d21\AndroidManifest.xml:17:1-29:12
+MERGED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:2:1-41:12
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\c8df014bead5e10a6513cace5847fdfb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\468b060d3363fe143f0a30d189564b56\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\47906f7703cd56ec7dbbb870940d190f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\4553db00464759c4f7a66cd7a859f074\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\72e5e50278cfc1702ef6ee909820bfdc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3ea0164978733ec5c24882eafb109fe0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\ace33e2c6ed900fb920f3e3d834af3f1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\9c42203d486d759ff89a72f99fa49104\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ad3ba0e034431939aa926aeb762cb1ad\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\db1d1d60f8f535cc41990a22c0d204b5\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7dc0a1e187e7f052299a0078feacae69\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3ae5008240e315bf43fcaab8e14b0f77\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\135cf915d401810d999646e36d0a38cf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7da36dda120c6f8e1634d85e5c72a632\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\94e59a2a6450d991f0c2236a37a5a82d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088d235312f8bec55db4825074f786f1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f170675ee64f3dc49a44cc0ded5c9380\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f2fadf4afe720fad0f27524aae0580fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\56545c161d97321640cfe09304810800\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8b7f48ff6e46c74188ea668bd67fb820\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\250852d568c891ef5c5c09f01069a546\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54e0c8ce1a27708c23ddec93c3f84715\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\9d44dc3244e8ad3774270a3e40823d7e\AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\7e0ff0b13f9e815277fe97606bc1871c\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\adfc2fcdbb14a2c4a6d8abdb42e3a973\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8389fcfc9e75c60ea7b74b2dc9e0bd5a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0ee3f3523cd5b39dce6003c8642986b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e41999081b389495bd169876ac035add\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12
+	package
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12
+		INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12
+		INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.1.aar\4224190e4e0c305d46a52ea2debdbc1a\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.1.aar\4224190e4e0c305d46a52ea2debdbc1a\AndroidManifest.xml:24:5-67
+MERGED from [:react-native-maps] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.1.aar\651b0a801b2f9b0fc6dadf40f9bede44\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.1.aar\651b0a801b2f9b0fc6dadf40f9bede44\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\eee8e3d8dcb47e6bf01be5b5d5e46659\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\eee8e3d8dcb47e6bf01be5b5d5e46659\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:11:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:11:22-65
+permission#com.movilturista.permission.C2D_MESSAGE
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:12:5-14:47
+	android:protectionLevel
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:13:9-63
+uses-permission#com.movilturista.permission.C2D_MESSAGE
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:18:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:19:22-78
+application
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:21:5-80:19
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.1.aar\4224190e4e0c305d46a52ea2debdbc1a\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.1.aar\4224190e4e0c305d46a52ea2debdbc1a\AndroidManifest.xml:26:5-20
+MERGED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\eee8e3d8dcb47e6bf01be5b5d5e46659\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\eee8e3d8dcb47e6bf01be5b5d5e46659\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:30:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\2c5b665c686f15318976c14d7af94459\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\2c5b665c686f15318976c14d7af94459\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.1.aar\651b0a801b2f9b0fc6dadf40f9bede44\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.1.aar\651b0a801b2f9b0fc6dadf40f9bede44\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8bfffa7eaab24086905485d932006d21\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8bfffa7eaab24086905485d932006d21\AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\9c42203d486d759ff89a72f99fa49104\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\9c42203d486d759ff89a72f99fa49104\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\db1d1d60f8f535cc41990a22c0d204b5\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\db1d1d60f8f535cc41990a22c0d204b5\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7dc0a1e187e7f052299a0078feacae69\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7dc0a1e187e7f052299a0078feacae69\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3ae5008240e315bf43fcaab8e14b0f77\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3ae5008240e315bf43fcaab8e14b0f77\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\135cf915d401810d999646e36d0a38cf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\135cf915d401810d999646e36d0a38cf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7da36dda120c6f8e1634d85e5c72a632\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7da36dda120c6f8e1634d85e5c72a632\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\94e59a2a6450d991f0c2236a37a5a82d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\94e59a2a6450d991f0c2236a37a5a82d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088d235312f8bec55db4825074f786f1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088d235312f8bec55db4825074f786f1\AndroidManifest.xml:25:5-29:19
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\9d44dc3244e8ad3774270a3e40823d7e\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\9d44dc3244e8ad3774270a3e40823d7e\AndroidManifest.xml:2:3-17
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\7e0ff0b13f9e815277fe97606bc1871c\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\7e0ff0b13f9e815277fe97606bc1871c\AndroidManifest.xml:7:5-11:19
+	android:label
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:23:7-39
+	android:icon
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:24:7-35
+	android:allowBackup
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:25:7-34
+	android:theme
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:26:7-38
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:22:7-38
+activity#com.movilturista.MainActivity
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:27:7-36:18
+	android:label
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:29:9-41
+	android:windowSoftInputMode
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:31:9-51
+	android:configChanges
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:30:9-79
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:28:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:32:9-35:25
+action#android.intent.action.MAIN
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:33:13-65
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:33:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:34:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:37:7-84
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:37:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:38:6-40:62
+	android:value
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:40:5-60
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:39:5-50
+meta-data#com.dieam.reactnativepushnotification.notification_channel_name
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:43:8-44:65
+	android:value
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:44:17-63
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:43:20-98
+meta-data#com.dieam.reactnativepushnotification.notification_channel_description
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:45:9-46:76
+	android:value
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:46:21-74
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:45:21-106
+meta-data#com.dieam.reactnativepushnotification.notification_color
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:48:9-49:62
+	android:resource
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:49:21-60
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:48:21-92
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:52:9-60:20
+	android:exported
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:54:13-36
+	android:permission
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:55:13-73
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:53:13-66
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.movilturista
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:56:13-59:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:57:17-81
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:57:25-78
+category#com.movilturista
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:58:17-61
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:58:27-58
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:63:9-110
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:63:19-107
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:64:9-68:20
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:64:19-115
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:65:13-67:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:66:17-79
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:66:25-76
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationRegistrationService
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:69:9-118
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:69:18-116
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerServiceGcm
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:72:9-78:19
+	android:exported
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:74:13-37
+	android:name
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:73:13-110
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:75:13-77:29
+uses-sdk
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-push-notification] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-push-notification\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-push-notification\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.1.aar\4224190e4e0c305d46a52ea2debdbc1a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.1.aar\4224190e4e0c305d46a52ea2debdbc1a\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\2d8f60758960eaa03ada8c6da9e3944e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-gif-1.10.0.aar\2d8f60758960eaa03ada8c6da9e3944e\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\eee8e3d8dcb47e6bf01be5b5d5e46659\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\react-native-0.57.1.aar\eee8e3d8dcb47e6bf01be5b5d5e46659\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\04509030e610c7d2393089c4fa5639f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\04509030e610c7d2393089c4fa5639f6\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-maps] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\2c5b665c686f15318976c14d7af94459\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\2c5b665c686f15318976c14d7af94459\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.1.aar\651b0a801b2f9b0fc6dadf40f9bede44\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.1.aar\651b0a801b2f9b0fc6dadf40f9bede44\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8bfffa7eaab24086905485d932006d21\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8bfffa7eaab24086905485d932006d21\AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\c8df014bead5e10a6513cace5847fdfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-base-1.10.0.aar\c8df014bead5e10a6513cace5847fdfb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\468b060d3363fe143f0a30d189564b56\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\468b060d3363fe143f0a30d189564b56\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\47906f7703cd56ec7dbbb870940d190f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\47906f7703cd56ec7dbbb870940d190f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\4553db00464759c4f7a66cd7a859f074\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.10.0.aar\4553db00464759c4f7a66cd7a859f074\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\72e5e50278cfc1702ef6ee909820bfdc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\72e5e50278cfc1702ef6ee909820bfdc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3ea0164978733ec5c24882eafb109fe0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3ea0164978733ec5c24882eafb109fe0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\ace33e2c6ed900fb920f3e3d834af3f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\ace33e2c6ed900fb920f3e3d834af3f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\9c42203d486d759ff89a72f99fa49104\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\9c42203d486d759ff89a72f99fa49104\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ad3ba0e034431939aa926aeb762cb1ad\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ad3ba0e034431939aa926aeb762cb1ad\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\db1d1d60f8f535cc41990a22c0d204b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\db1d1d60f8f535cc41990a22c0d204b5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7dc0a1e187e7f052299a0078feacae69\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\7dc0a1e187e7f052299a0078feacae69\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3ae5008240e315bf43fcaab8e14b0f77\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\3ae5008240e315bf43fcaab8e14b0f77\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\135cf915d401810d999646e36d0a38cf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\135cf915d401810d999646e36d0a38cf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7da36dda120c6f8e1634d85e5c72a632\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7da36dda120c6f8e1634d85e5c72a632\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\94e59a2a6450d991f0c2236a37a5a82d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\94e59a2a6450d991f0c2236a37a5a82d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088d235312f8bec55db4825074f786f1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088d235312f8bec55db4825074f786f1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f170675ee64f3dc49a44cc0ded5c9380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f170675ee64f3dc49a44cc0ded5c9380\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f2fadf4afe720fad0f27524aae0580fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f2fadf4afe720fad0f27524aae0580fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\56545c161d97321640cfe09304810800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\56545c161d97321640cfe09304810800\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8b7f48ff6e46c74188ea668bd67fb820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8b7f48ff6e46c74188ea668bd67fb820\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\250852d568c891ef5c5c09f01069a546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\250852d568c891ef5c5c09f01069a546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54e0c8ce1a27708c23ddec93c3f84715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\54e0c8ce1a27708c23ddec93c3f84715\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\7e0ff0b13f9e815277fe97606bc1871c\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\7e0ff0b13f9e815277fe97606bc1871c\AndroidManifest.xml:5:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\adfc2fcdbb14a2c4a6d8abdb42e3a973\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\adfc2fcdbb14a2c4a6d8abdb42e3a973\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8389fcfc9e75c60ea7b74b2dc9e0bd5a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\8389fcfc9e75c60ea7b74b2dc9e0bd5a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0ee3f3523cd5b39dce6003c8642986b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0ee3f3523cd5b39dce6003c8642986b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e41999081b389495bd169876ac035add\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e41999081b389495bd169876ac035add\AndroidManifest.xml:20:5-44
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\94e59a2a6450d991f0c2236a37a5a82d\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.1.aar\4224190e4e0c305d46a52ea2debdbc1a\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.1.aar\651b0a801b2f9b0fc6dadf40f9bede44\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-iid-15.0.1.aar\651b0a801b2f9b0fc6dadf40f9bede44\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-gcm-15.0.1.aar\4224190e4e0c305d46a52ea2debdbc1a\AndroidManifest.xml:23:22-79
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-image-picker\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] C:\xampp\htdocs\moviltaller-master\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\3b142736611904c7810439d97c4e980c\AndroidManifest.xml:28:9-32
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.4.aar\52b2a8e20691ff1ea294472be10e179e\AndroidManifest.xml:32:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:38:13-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.4.aar\ffbe200e4dfff8e97aa1ed25c0bb397e\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8bfffa7eaab24086905485d932006d21\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8bfffa7eaab24086905485d932006d21\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8bfffa7eaab24086905485d932006d21\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8bfffa7eaab24086905485d932006d21\AndroidManifest.xml:24:13-79
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\ShortcutBadger-1.1.8.aar\f8ff81620e2ad1139db634846f8ad664\AndroidManifest.xml:39:22-90
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\db1d1d60f8f535cc41990a22c0d204b5\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\db1d1d60f8f535cc41990a22c0d204b5\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\db1d1d60f8f535cc41990a22c0d204b5\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\db1d1d60f8f535cc41990a22c0d204b5\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.3.aar\db1d1d60f8f535cc41990a22c0d204b5\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7da36dda120c6f8e1634d85e5c72a632\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\7e0ff0b13f9e815277fe97606bc1871c\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\7e0ff0b13f9e815277fe97606bc1871c\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7da36dda120c6f8e1634d85e5c72a632\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\7da36dda120c6f8e1634d85e5c72a632\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\94e59a2a6450d991f0c2236a37a5a82d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088d235312f8bec55db4825074f786f1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\088d235312f8bec55db4825074f786f1\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\94e59a2a6450d991f0c2236a37a5a82d\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\MiguelAngel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\94e59a2a6450d991f0c2236a37a5a82d\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\xampp\htdocs\moviltaller-master\android\app\src\main\AndroidManifest.xml:1:1-82:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
